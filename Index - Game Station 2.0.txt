@@ -4,3 +4,5 @@ yyyy-mm-dd | hh:mm:ss | x → transcript | video + (participants)
 2012-04-05 | 00:06:07 | bit.ly/3nruOsz | The Legend of Zelda: Skyward Sword (Mike, Rich, Tara)
 2012-04-26 | 00:05:11 | bit.ly/38GsUjM | The Amazing Spider-Man trailer (Rich, Liz[?])
 2012-05-27 | 00:05:29 | bit.ly/3lv7wl0 | Vanquish (Mike, Jay, Rich, Tara)
+
+https://twitter.com/redlettermedia/status/410177819071614976
