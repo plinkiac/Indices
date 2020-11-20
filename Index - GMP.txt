@@ -1,0 +1,19 @@
+mm/dd/yyyy | hh:mm:ss | x → transcript | video title
+
+00/00/1998 | 00:21:42 | bit.ly/3ldfNJM | Oranges 4: The Eggpire Strikes Back
+00/00/1998 | 00:04:21 | bit.ly/3d8w8fZ | Oranges: Attack of the Nyaagh
+01/08/1999 | 00:00:00 | bit.ly/2HUQ1eW | Guestbook
+08/21/1999 | 00:00:00 | bit.ly/2IIRzcq | Film survey
+03/23/2000 | 00:00:00 | bit.ly/30D6HOP | Message board
+05/21/2000 | 00:00:00 | bit.ly/2GwgoaP | Adam Wheeler
+05/31/2000 | 00:00:00 | bit.ly/3d4ckdK | Erik Visnyak
+10/09/2000 | 00:00:00 | bit.ly/36GYv3I | Sergio Posts
+12/19/2000 | 00:00:00 | bit.ly/3lPTwCo | Filmography
+07/00/2001 | 00:04:29 | bit.ly/2GzuIiJ | Born in South Dakota
+07/00/2001 | 00:11:27 | bit.ly/3d2z5Pl | Monkey Man 2k+1
+07/11/2001 | 00:16:48 | bit.ly/34wiwr1 | Jason Santo's Transients
+07/15/2001 | 00:05:56 | bit.ly/33FWdAd | Torgo and the Quest for Fuck
+00/00/2002 | 00:15:40 | bit.ly/3jFDvOG | Where's Deathlist?
+07/27/2002 | 00:37:13 | bit.ly/3jFhjUS | The Long Walk Home
+00/00/2005 | 00:06:06 | bit.ly/3nognX7 | I'm Gonna Make Wine Out of Your Testicles
+06/15/2005 | 00:17:40 | bit.ly/3iBozjb | The United States of Noooo!!!
